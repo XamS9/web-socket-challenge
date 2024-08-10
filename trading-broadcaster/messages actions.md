@@ -1,6 +1,6 @@
 # TB Commands
 
-{"action": "add-tradding-aggregator", "host": "'host address'" }
+{"action": "add-tradding-aggregator", "host": "TA-address" }
 
 {"action": "clear-tradding-aggretator"}
 
