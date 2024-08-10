@@ -1,8 +1,8 @@
 # TB Commands
 
-{"action": "add-tradding-aggregator", "host": "<ta-host>" }
+{"action": "add-tradding-aggregator", "host": "'host address'" }
 
-{"action": "clear-tradding-aggretatos"}
+{"action": "clear-tradding-aggretator"}
 
 {"action": "subscribe", "channel": "broadcast"}
 
