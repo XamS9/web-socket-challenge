@@ -1,6 +1,6 @@
 # TA Commands
 
-{"action": "add-provider", "host": "<ws-host>", "symbols": ["symbols-id"] }
+{"action": "add-provider", "host": "storage-host", "symbols": ["symbols-id"] }
 
 {"action": "clear-providers"}
 
